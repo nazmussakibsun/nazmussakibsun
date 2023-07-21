@@ -1,13 +1,13 @@
 ✸ Hi 👋, I'm Nazmus Sakib Sun
 ========================
 
-A passionate full stack developer from Bangladesh, Living in Malaysia for last 5 years.
+A passionate full-stack developer from Bangladesh, Living in Malaysia for the last 5 years.
 🌱 I’m currently working on several web application projects.
-📄 Know about my experiences https://www.amanullah.net
-💬 Ask me about **php, laravel, javascript, css, html, express, node **
+📄 Know about my experiences https://dev-nazmussakibsun.pantheonsite.io/
+💬 Ask me about **PHP, Laravel, javascript, CSS, html, ,UI and UX design.**
 
 ♦ Connect with me:
-✉ Youtube: https://www.youtube.com/channel/UCdYub5ws1Y52G73xYyga0_w
+✉ Youtube: https://www.youtube.com/watch?v=cvEPv3yLlG4
 ✉ Twitter: 
 ✉ Gmail: nazmussakibsun@gmail.com
 ✉ LinkedIn: https://www.linkedin.com/in/nazmussakibsun/
@@ -18,21 +18,17 @@ A passionate full stack developer from Bangladesh, Living in Malaysia for last 5
 ❏ Front End
 ▪ HTML
 ▪ CSS
-▪ JavaScript/ES6, Vue
+▪ JavaScript/ES6
 
 
 ❏ Back End
 ▪ Laravel
-▪ Express/Node
 ▪ REST API
 ▪ MongoDB, MySQL
 
 ✸ Deployment, Services & Tools
 
-☞ Docker
-☞ AWS EC2, S3
+☞ Wordpress
 ☞ Github, Gitlab
 ☞ VS Code, Git, Windows Terminal
-☞ Slack, Discord
-☞ MongoDB Compass, pgAdmin, DBeaver, Firebase Console.
 
